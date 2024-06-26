@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here are some of my pinned projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=clanguard)](https://github.com/davidherrera83/clanguard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=playwright-test-framework)](https://github.com/davidherrera83/playwright-test-framework)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=clash-royale-deck-analyzer)](https://github.com/davidherrera83/clash-royale-deck-analyzer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=homestead_ai)](https://github.com/davidherrera83/homestead_ai)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=automation-framework-pytest)](https://github.com/davidherrera83/automation-framework-pytest)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=api-testing)](https://github.com/davidherrera83/api-testing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=autobot)](https://github.com/davidherrera83/autobot)
