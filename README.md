@@ -32,8 +32,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=davidherrera83.github.io&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/davidherrera83.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=grow&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/grow)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=ksl_tool&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/ksl_tool)
-[![Readme Card]](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=openalgocodel&show_icons=true&theme=tokyonight)(https://github.com/davidherrera83/openalgocode)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=openalgocode&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/openalgocode)
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidherrera83/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/davidherrera83.bsky.social)
