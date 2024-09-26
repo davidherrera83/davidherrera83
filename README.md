@@ -23,6 +23,7 @@
 
 ## 🔥 Featured Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=clanguard&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/c-sharp-playwright-test-framework)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=clanguard&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/clanguard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=playwright-test-framework&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/playwright-test-framework)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=homestead_ai&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/homestead_ai)
@@ -31,7 +32,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=appium-test-framework&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/appium-test-framework)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=davidherrera83.github.io&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/davidherrera83.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=grow&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/grow)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=ksl_tool&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/ksl_tool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=openalgocode&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/openalgocode)
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidherrera83/)
