@@ -23,7 +23,7 @@
 
 ## 🔥 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=clanguard&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/c-sharp-playwright-test-framework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=c-sharp-playwright-test-framework&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/c-sharp-playwright-test-framework)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=clanguard&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/clanguard)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=playwright-test-framework&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/playwright-test-framework)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidherrera83&repo=homestead_ai&show_icons=true&theme=tokyonight)](https://github.com/davidherrera83/homestead_ai)
